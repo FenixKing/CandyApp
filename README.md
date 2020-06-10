@@ -1,4 +1,4 @@
-Original design owner: https://dribbble.com/shots/6905316-Yummy-Land-Mobile-App
+[Original design owner] (https://dribbble.com/shots/6905316-Yummy-Land-Mobile-App)
 
 
 # **Negrito** First I would like to say, this don't have commercial intention, and don't have permission to this to.
