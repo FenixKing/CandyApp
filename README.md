@@ -1,7 +1,7 @@
 Original design owner: https://dribbble.com/shots/6905316-Yummy-Land-Mobile-App
 
 
-# **Negrito** First I would like to say, this don't have commercial intention, and don't have permission to this to.
+#  First I would like to say, this don't have commercial intention, and don't have permission to this to.
 ## So know this, than the interface  is created using React Native CLI. Yarn to be the Packege Manager and
 ## FontAwesome to be the Icons.
 ### To recreate the interface, you'll need install a little things:
